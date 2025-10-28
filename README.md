@@ -6,7 +6,7 @@ These projects were created and tested on a virtual environment using Anaconda. 
 
 ### Create a new anaconda environment
 ```bash
-conda create --name Sign_Language_env python=3.10
+conda create --name Sign_Language_env python=3.11
 ```
 
 ### Activate the environment
@@ -15,9 +15,8 @@ conda activate Sign_Language_env
 ```
 ### Install Packages
 ```bash
-pip install opencv-python
-pip install mediapipec
-pip install scikit-learn
+pip install --upgrade pip setuptools wheel
+pip install opencv-python scikit-learn mediapipe
 ```
 
 ## Deactivate an active environment
