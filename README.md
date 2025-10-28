@@ -2,7 +2,7 @@
 A fun project I decided to do after being so busy. Make practicing sign languages more fun and interactable.
 
 ## Installation
-These projects were created and tested on a virtual environment using Anaconda. Open Anaconda Prompt and write the following lines.
+This project was created and tested on a virtual environment using Anaconda. Open Anaconda Prompt and write the following lines.
 
 ### Create a new anaconda environment
 ```bash
